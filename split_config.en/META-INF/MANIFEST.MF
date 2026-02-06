@@ -1,0 +1,65 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: RDUJHa+cT1gUudStKVn9lEqdK6I=
+
+Name: res/mipmap-en/icon_game_betting_10.png
+SHA1-Digest: fGnCiU7aKa1jh1+blPeeyDqJZwA=
+
+Name: res/mipmap-en/icon_game_betting_100.png
+SHA1-Digest: 1+TLXvWTuAFyJOEIFhUecTdYZR4=
+
+Name: res/mipmap-en/icon_game_betting_1000.png
+SHA1-Digest: k90KNX6JCb4SiCJNdzDK2PLjwEA=
+
+Name: res/mipmap-en/icon_game_betting_10000.png
+SHA1-Digest: IH9bV+IeOhMgRf1ER6txU3/ZaXw=
+
+Name: res/mipmap-en/icon_game_betting_10000_foucs.png
+SHA1-Digest: +aZPxe9hg9vKfglR23y1pnSpgKM=
+
+Name: res/mipmap-en/icon_game_betting_1000_foucs.png
+SHA1-Digest: 2V9Z4+ZbrGHnWuovkZoQXK13fAA=
+
+Name: res/mipmap-en/icon_game_betting_100_foucs.png
+SHA1-Digest: 3wpr4Orod9Yaqq0DU2DdanDSV8g=
+
+Name: res/mipmap-en/icon_game_betting_10_foucs.png
+SHA1-Digest: aVvCmFQyve8LP7HIgbtI/m0fGXU=
+
+Name: res/mipmap-en/icon_zjh_back.png
+SHA1-Digest: 8lN0JgAslz3DwyqTtCBk6AcGd8I=
+
+Name: res/mipmap-en/icon_zjh_result_bz.png
+SHA1-Digest: QxJps86DdNkTr6K25djUJF/Xbeo=
+
+Name: res/mipmap-en/icon_zjh_result_dp.png
+SHA1-Digest: 0ZuB1yKjQH7VVAWo6MZ8jT4+qww=
+
+Name: res/mipmap-en/icon_zjh_result_dz.png
+SHA1-Digest: 7HdZ0NsWSX1dsV5N7N8PLS38nuI=
+
+Name: res/mipmap-en/icon_zjh_result_sz.png
+SHA1-Digest: IjYtqnbwolZKgxCbSWhgu+au5+4=
+
+Name: res/mipmap-en/icon_zjh_result_th.png
+SHA1-Digest: k+8IaCE51rlCvwaZ3AVZm2tnub4=
+
+Name: res/mipmap-en/icon_zjh_result_ths.png
+SHA1-Digest: fhMlKMg9zyen/2eesS3e8zpX/dw=
+
+Name: res/mipmap-en/icon_zjh_role_name_left.png
+SHA1-Digest: 0qCQqOWGZ1Ajsrty/63MzXZqJAU=
+
+Name: res/mipmap-en/icon_zjh_role_name_middle.png
+SHA1-Digest: o/1QWLJ3J+ZRebndWOxdjRcCZ6I=
+
+Name: res/mipmap-en/icon_zjh_role_name_right.png
+SHA1-Digest: XPrxsXhK+/vfDt7x+KSYnRHIG1M=
+
+Name: resources.arsc
+SHA1-Digest: b1kNWtaDRQFXSpEf/Ohg3+PZ95I=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

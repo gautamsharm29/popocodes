@@ -1,0 +1,95 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4o7LGV7tsG4oCkbryqgHDx+e3Ys=
+
+Name: lib/arm64-v8a/libagora-chat-sdk.so
+SHA1-Digest: HrDUmjNtyjM3S+A6OPNDMJ97+GU=
+
+Name: lib/arm64-v8a/libagora-fdkaac.so
+SHA1-Digest: iLq7h7dKfCX1350FXtwbAoWnOxI=
+
+Name: lib/arm64-v8a/libagora-ffmpeg.so
+SHA1-Digest: 040OQ0aaTpK0wwNwkFkYOsEnbj8=
+
+Name: lib/arm64-v8a/libagora-rtc-sdk.so
+SHA1-Digest: 5Zv4pu8ZTkV+k6+coRj3yYE/+Oo=
+
+Name: lib/arm64-v8a/libagora-soundtouch.so
+SHA1-Digest: wW9rCtuOo7BNYsf15W6uoY8tvCc=
+
+Name: lib/arm64-v8a/libagora_ai_echo_cancellation_extension.so
+SHA1-Digest: jTZ/69IMvLs2zNLpnDLcHyT4+TE=
+
+Name: lib/arm64-v8a/libagora_ai_noise_suppression_extension.so
+SHA1-Digest: CJIFGkr0Tk8gO62CZ7RWcYQ4KFg=
+
+Name: lib/arm64-v8a/libagora_audio_beauty_extension.so
+SHA1-Digest: HXtu5K+wHHGwLnTXYbAgRdCxnmQ=
+
+Name: lib/arm64-v8a/libagora_clear_vision_extension.so
+SHA1-Digest: vXzfXlT8Y1CViX/vIf+2FBa+gnE=
+
+Name: lib/arm64-v8a/libagora_content_inspect_extension.so
+SHA1-Digest: 3QLvGNAlQDvMGp5yubOOAISbHAk=
+
+Name: lib/arm64-v8a/libagora_face_capture_extension.so
+SHA1-Digest: eguPApAX424ZlIybganNemJYCgg=
+
+Name: lib/arm64-v8a/libagora_face_detection_extension.so
+SHA1-Digest: 7+JJCcDM3V8B4qhmExNCi22xhQ0=
+
+Name: lib/arm64-v8a/libagora_lip_sync_extension.so
+SHA1-Digest: DCFi56/IbsmHsWKo2XCEj5sJkVI=
+
+Name: lib/arm64-v8a/libagora_screen_capture_extension.so
+SHA1-Digest: SDEQHGsu7NI5e6nhOnraYgRmVQY=
+
+Name: lib/arm64-v8a/libagora_segmentation_extension.so
+SHA1-Digest: PchJSb0Ntxex3T+BiGSWc4XzqoU=
+
+Name: lib/arm64-v8a/libagora_spatial_audio_extension.so
+SHA1-Digest: VxXudMY7uJvHM/PQQLFfnX97icM=
+
+Name: lib/arm64-v8a/libagora_video_av1_decoder_extension.so
+SHA1-Digest: XtNHJHF0SsrhfXcchial5acfdXc=
+
+Name: lib/arm64-v8a/libagora_video_av1_encoder_extension.so
+SHA1-Digest: ORZZUgA3g3a97HhTQcf/C/uSaD0=
+
+Name: lib/arm64-v8a/libagora_video_decoder_extension.so
+SHA1-Digest: zRmflTpYdAWY1CBgYdlcGpcczUc=
+
+Name: lib/arm64-v8a/libagora_video_encoder_extension.so
+SHA1-Digest: VcX8KYToAhkb53HM5r37KXniZKw=
+
+Name: lib/arm64-v8a/libagora_video_quality_analyzer_extension.so
+SHA1-Digest: w/6pU1B+0aAeWMs3wAnhj2TjDIg=
+
+Name: lib/arm64-v8a/libanimation-decoder-gif.so
+SHA1-Digest: JT+RkZYNNR75SfUzMVsZb/mUyWE=
+
+Name: lib/arm64-v8a/libaosl.so
+SHA1-Digest: UqRsKloNzJ60HZSbzwnvLT+yG6c=
+
+Name: lib/arm64-v8a/libavif_android.so
+SHA1-Digest: C7XUiXOd+QNs8mOyFAdgW71gF+w=
+
+Name: lib/arm64-v8a/libcipherdb.so
+SHA1-Digest: vnDCTzjm0N0AUGyMhPXmjL8Ufbo=
+
+Name: lib/arm64-v8a/libglide-webp.so
+SHA1-Digest: 9zTC/GmAPbVqbp5BJsVwdxO9f+o=
+
+Name: lib/arm64-v8a/libimage_processing_util_jni.so
+SHA1-Digest: vUJZDlsVpdNx2vtRqx8qA3UafRw=
+
+Name: lib/arm64-v8a/libvideo_dec.so
+SHA1-Digest: AyXnhlnl/rwGdI/grZmGRNWuajk=
+
+Name: lib/arm64-v8a/libvideo_enc.so
+SHA1-Digest: Jl7mJgAIyoICLYx2glvmB8J1iuY=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
